@@ -21,7 +21,7 @@ The goal is not to label quarterbacks definitively, but to identify tendencies i
 - All pass plays in quarters 1–3
 - EPA per play calculated for each quarterback
 
-### Fourth-Quarter Pressure Definition
+### Pressure Definition
 A play is considered a high-pressure situation if:
 - It occurs in the 4th quarter
 - Score differential is within 7 points
@@ -39,7 +39,7 @@ Quarterbacks are compared based on their baseline EPA (quarters 1–3) versus th
 ## Visualizations
 The analysis includes:
 - Overall EPA distributions
-- EPA under pressure (non-4th quarter)
+- EPA(quarters 1-3)
 - EPA under pressure (4th quarter)
 - Scatter plot comparing baseline EPA to fourth-quarter pressure EPA
 
@@ -91,4 +91,4 @@ Potential extensions include:
 ---
 
 ## Conclusion
-This project demonstrates that quarterback performance under pressure is situational and cannot be fully inferred from overall efficiency alone. Evaluating performance across multiple pressure contexts provides a more nuanced understanding of late-game quarterback play.
+This project demonstrates that quarterback performance under pressure is situational and cannot be fully inferred from overallefficiency alone. Evaluating performance across multiple pressure instances provides a better understanding of late-game quarterback play.
