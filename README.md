@@ -69,7 +69,7 @@ In the scatter plot:
 
 ## Reusability
 This notebook is designed to be reusable across seasons.  
-To analyze a different year, users can modify the `SEASON_YEAR` parameter at the top of the notebook, provided play-by-play data is available for that season.
+To analyze a different year, users can modify the `season_year` parameter at the top of the notebook, provided play-by-play data is available for that season.
 
 ---
 
